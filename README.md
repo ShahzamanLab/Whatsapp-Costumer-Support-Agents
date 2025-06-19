@@ -50,7 +50,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 
-  Configure API Keys
+  ##Configure API Keys
 
   OPENAI_API_KEY=your_openai_key
 GROQ_API_KEY=your_groq_key
@@ -59,10 +59,10 @@ TWILIO_AUTH_TOKEN=your_token
 TWILIO_WHATSAPP_NUMBER=whatsapp:+14155238886
 
 
-Run the App Locally
+#Run the App Locally
 uvicorn app.main:app --reload
 
-Make it Public (Webhook with ngrok)
+#Make it Public (Webhook with ngrok)
 ngrok http 8000
 
 
