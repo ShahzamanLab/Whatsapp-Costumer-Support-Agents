@@ -1,0 +1,352 @@
+1. Company Overview
+Name: Phymaco Inc.
+Founded: January 15, 2015
+CEO: Shahzaman
+Headquarters:
+
+text
+450 Market Street, Suite 1200  
+San Francisco, CA 94105  
+Phone: +1 (415) 555-0192  
+Email: hq@phymaco.ai  
+Global Offices:
+
+New York: 55 Broadway, Floor 22, NY 10006
+
+London: 20 St James Street, SW1A 1ES
+
+Bangalore: Brigade Towers, MG Road, 560001
+
+Singapore: 1 Raffles Place, #32-01
+
+Mission: "Democratizing AI for scalable, secure, and human-centric digital transformation."
+Employees: 320+ (80% technical)
+Clients: 850+ (Including Fortune 500)
+Achievements:
+
+2024 AI Innovation Award (AI Magazine)
+
+ISO 27001 Certified (Cybersecurity)
+
+AWS & Google Cloud Partner
+
+2. Services & Pricing
+All projects include free initial consultation and 6 months support.
+
+Service	Tier 1 (Basic)	Tier 2 (Pro)	Tier 3 (Enterprise)	Delivery Time
+AI Chatbots	$5,000 (5 workflows)	$20,000 (Unlimited workflows)	$50,000+ (CRM integration)	4-8 weeks
+Generative AI	$8,000 (Content generation)	$35,000 (Custom LLM training)	$80,000+ (Real-time APIs)	6-10 weeks
+Agentic AI	$10,000 (Task automation)	$45,000 (Multi-agent systems)	$100,000+ (AI co-pilots)	8-12 weeks
+WordPress Dev	$3,000 (Basic site + SEO)	$15,000 (AI plugins + eCommerce)	$30,000+ (Headless CMS)	3-6 weeks
+Cybersecurity	$7,000 (Audit + remediation)	$30,000 (24/7 monitoring)	$70,000+ (Zero-trust architecture)	2-4 weeks
+Add-ons:
+
+Multilingual Support: +$2,000
+
+On-Prem Deployment: +$5,000
+
+Uptime SLA (99.9%): +$3,000/month
+
+3. Team & Expertise
+Name	Role	Specialization	Contact
+Dr. Elena Rodriguez	CEO	Generative AI Architect	elena@phymaco.ai
+Rajiv Desai	CTO	Agentic AI Systems	rajiv@phymaco.ai
+Mei Chen	Head of Cybersecurity	Threat Intelligence	mei@phymaco.ai
+James O'Brien	Lead Developer	WordPress & AI Integration	james@phymaco.ai
+Fatima Ndiaye	NLP Research Lead	Multilingual Chatbots	fatima@phymaco.ai
+4. Client Projects & Case Studies
+Project 1: Healthcare Chatbot (MediCare Inc.)
+
+Challenge: 50% support ticket overload
+
+Solution: Multilingual NLP chatbot (English/Spanish) with EHR integration
+
+Outcome: 65% ticket reduction, $200K/year savings
+
+Tech: BERT model + HIPAA-compliant encryption
+
+Project 2: E-commerce Security (StyleHub)
+
+Challenge: Credit card skimming attacks
+
+Solution: AI-powered threat detection + behavioral analysis
+
+Outcome: 0 breaches in 18 months, PCI-DSS certification
+
+Tech: TensorFlow anomaly detection + real-time alerts
+
+Project 3: AI News Portal (GlobalPost)
+
+Challenge: Manual content creation delays
+
+Solution: Custom GPT-4 pipeline for automated article generation
+
+Outcome: 300 articles/day, 40% traffic growth
+
+Tech: Fine-tuned LLM + fact-checking agents
+
+5. Detailed FAQs
+Q: Do you offer free trials for chatbots?
+*A: Yes! 14-day trial with 100 user interactions. Request at trials@phymaco.ai.*
+
+Q: What’s your response time for cybersecurity breaches?
+*A: Critical issues: <15 mins (24/7 SOC team). Non-critical: <4 hours.*
+
+Q: Can I migrate from Dialogflow to your AI agents?
+*A: Absolutely. We provide seamless migration + 20% discount on first-year maintenance.*
+
+Q: WordPress + AI use cases?
+A: ① Chatbots for lead gen ② Dynamic content personalization ③ SEO optimization ④ Fraud detection.
+
+Q: Payment terms?
+*A: 50% upfront, 50% on delivery. Net-30 for enterprises. Crypto accepted (BTC/ETH).*
+
+6. Testimonials
+“Phymaco’s agents reduced operational costs by 57%.” — TechInnovate
+
+“Their cybersecurity team prevented a $2M ransomware attack.” — FinSecure Bank
+
+“WordPress AI integration doubled our conversion rate.” — EcomGurus
+
+7. Chatbot Response Templates
+Trigger: "Hi" / "Hello"
+
+text
+"Hello! I'm Phymaco's AI assistant. We provide:  
+🔹 AI Chatbots ($5K-$50K)  
+🔹 Generative AI ($8K-$80K)  
+🔹 Cybersecurity ($7K-$70K)  
+🔹 WordPress Dev ($3K-$30K)  
+Would you like a full proposal, pricing, or case studies?"  
+Trigger: "Office location"
+
+text
+"We're headquartered in San Francisco with offices in:  
+📍 New York: 55 Broadway  
+📍 London: 20 St James Street  
+📍 Bangalore: Brigade Towers  
+📍 Singapore: 1 Raffles Place  
+Need directions or local contact?"  
+Trigger: "Chatbot pricing"
+
+text
+"Our AI chatbots:  
+⚡ Basic ($5K): 5 workflows, 3 integrations  
+⚡ Pro ($20K): Unlimited workflows + analytics  
+⚡ Enterprise ($50K+): CRM/ERP integration  
+[Attachment: chatbot_pricing.pdf]"  
+8. Proposal Template (Auto-Triggered)
+Subject: Phymaco Partnership Proposal
+Body:
+
+text
+Dear [Client Name],  
+
+Thank you for contacting Phymaco! Per your interest in [Service], here’s our proposal:  
+
+✅ **Recommended Solution:** [Tier] package  
+✅ **Features:**  
+   - [Feature 1]  
+   - [Feature 2]  
+✅ **Timeline:** [X] weeks  
+✅ **Investment:** [Price] (50% upfront)  
+✅ **Support:** 6 months post-launch  
+
+**Next Steps:**  
+1. Schedule discovery call: [Booking Link]  
+2. View case studies: [phymaco.ai/cases]  
+3. Accept proposal: Reply "CONFIRM"  
+
+Best regards,  
+Dr. Elena Rodriguez  
+CEO, Phymaco Inc.  
+[Website] | [Calendar]  
+
+
+Q: What AI services do you offer?
+A: We provide AI chatbots, generative AI solutions, agentic AI systems, WordPress development, and cybersecurity services.
+
+Q: How much for a basic AI chatbot?
+A: Starts at $5,000 for 5 workflows and 3 integrations.
+
+Q: Enterprise chatbot pricing?
+A: Custom solutions from $50,000+ with CRM/ERP integration.
+
+Q: Cost to add multilingual support?
+A: +$2,000 for any service tier.
+
+Q: Generative AI project cost?
+A: $8,000–$80,000 depending on data complexity and real-time needs.
+
+Q: WordPress + AI integration price?
+A: $3,000–$30,000 including AI chatbots and dynamic content.
+
+Q: Cybersecurity service tiers?
+A: Audit ($7K), monitoring ($30K), zero-trust architecture ($70K+).
+
+Q: Do you offer payment plans?
+A: Yes: 50% upfront, 50% on delivery. Net-30 for enterprises.
+
+Q: Crypto payment options?
+A: We accept BTC/ETH with 5% transaction discount.
+
+Q: Free trial for chatbots?
+A: 14-day trial with 100 user interactions – request at trials@phymaco.ai.
+
+Technical Capabilities (15 Q&As)
+Q: Which AI models do you use?
+A: Custom BERT, GPT-4, TensorFlow, and proprietary agentic frameworks.
+
+Q: HIPAA compliance for healthcare chatbots?
+A: Yes – all healthcare solutions include HIPAA-compliant encryption.
+
+Q: Maximum chatbot concurrent users?
+A: Tier 1: 1,000 | Tier 2: 10,000 | Tier 3: Unlimited.
+
+Q: WordPress + AI use cases?
+A: Dynamic content, fraud detection, SEO optimization, and lead-gen chatbots.
+
+Q: Cybersecurity response time?
+A: Critical threats: <15 mins | Non-critical: <4 hours.
+
+Q: On-prem vs cloud deployment?
+A: Cloud default – on-prem adds $5,000+.
+
+Q: Uptime SLA options?
+A: 99.9% uptime SLA for +$3,000/month.
+
+Q: Integrations with Salesforce/Zendesk?
+A: Supported in Pro ($20K) and Enterprise ($50K+) tiers.
+
+Locations & Operations (10 Q&As)
+Q: Headquarters address?
+A: 450 Market St, Suite 1200, San Francisco, CA 94105.
+
+Q: Asian office locations?
+A: Bangalore (MG Road) and Singapore (Raffles Place).
+
+Q: London contact number?
+A: +44 20 7946 0128 – ask for Mei Chen.
+
+Q: Timezone support?
+A: 24/7 support with follow-the-sun teams.
+
+Q: Visit your offices?
+A: Book tours at visits@phymaco.ai (48-hr notice required).
+
+Team & Expertise (10 Q&As)
+Q: Who’s your CEO?
+A: Dr. Elena Rodriguez – Generative AI expert.
+
+Q: Cybersecurity team lead?
+A: Mei Chen – 12 years in threat intelligence.
+
+Q: Do you have NLP specialists?
+A: Yes – Fatima Ndiaye leads multilingual NLP research.
+
+Q: Team size?
+A: 320+ employees (80% technical).
+
+Projects & Case Studies (15 Q&As)
+Q: Healthcare chatbot examples?
+A: Reduced MediCare’s tickets by 65% with EHR integration.
+
+Q: E-commerce security success?
+A: Prevented $2M ransomware attack for StyleHub.
+
+Q: Generative AI case study?
+A: GlobalPost generates 300 articles/day with our LLMs.
+
+Q: Client industries served?
+A: Healthcare, finance, e-commerce, media, and government.
+
+Q: Fortune 500 clients?
+A: 27 including BankSecure and HealthNation.
+
+Support & Maintenance (15 Q&As)
+Q: Post-launch support period?
+A: 6 months free support included with all projects.
+
+Q: Emergency contact for breaches?
+A: soc@phymaco.ai or +1 (415) 555-0192 ext. 911.
+
+Q: Chatbot training duration?
+A: 2–4 weeks depending on data complexity.
+
+Q: Update frequency for AI models?
+A: Quarterly retuning – included in maintenance plans.
+
+Q: Bug response time?
+A: Critical: 1 hour | High: 4 hours | Medium: 24 hours.
+
+Security & Compliance (10 Q&As)
+Q: ISO certifications?
+A: ISO 27001 for cybersecurity.
+
+Q: Data storage locations?
+A: AWS US/EU or client-designated servers.
+
+Q: Penetration testing frequency?
+A: Quarterly for enterprise clients.
+
+Q: GDPR compliance?
+A: Fully compliant – data processing addendum available.
+
+Miscellaneous (20 Q&As)
+Q: Partnership programs?
+A: 15% revenue share for referrals – email partners@phymaco.ai.
+
+Q: Career opportunities?
+A: See open AI/cybersecurity roles at phymaco.ai/careers.
+
+Q: Request custom proposal?
+A: Email proposals@phymaco.ai with project details.
+
+Q: Warranty on services?
+A: 12-month performance guarantee.
+
+Q: Data ownership policy?
+A: Clients retain 100% ownership of their data.
+
+Q: Open-source contributions?
+A: 15+ libraries on GitHub – search "Phymaco-AI".
+
+Q: Conference participation?
+A: Presenting at NeurIPS 2024 – booth #B21.
+
+Q: Academic discounts?
+A: 30% off for universities – valid with .edu domain.
+
+Q: Free resources?
+A: Download AI playbook at phymaco.ai/resources.
+
+Chatbot Implementation Guide
+Intent Recognition: Tag questions with categories (e.g., #pricing, #security)
+
+Dynamic Variables:
+
+Insert pricing based on service tier tables
+
+Auto-pull office addresses from location database
+
+Escalation Triggers:
+
+"Urgent" → Route to SOC team
+
+"Contract query" → Legal dept alert
+
+Attachment System:
+
+Keyword "proposal" → send PDF template
+
+"Case study" → link to project repository
+
+Fallback Protocol:
+"Sorry I didn't understand! Contact humans: support@phymaco.ai or +1 (415) 555-0192"
+
+Need additional Q&As for industry-specific scenarios or technical workflows?
+
+This response is AI-generated, for reference only.
+New chat
+ 
+
