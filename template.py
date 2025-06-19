@@ -27,7 +27,8 @@ list_of_files = [
     "setup.py",
     "README.md",
     "LICENSE",
-    "langchain.yaml"
+    "langchain.yaml",
+    "tunnel.py"
 ]
 
 for file_path in list_of_files:
